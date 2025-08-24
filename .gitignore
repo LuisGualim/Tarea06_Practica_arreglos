@@ -1,7 +1,0 @@
-# Ignorar archivos específicos de Eclipse
-.metadata/
-.project
-.classpath
-.settings/
-.vscode/
-*.log
